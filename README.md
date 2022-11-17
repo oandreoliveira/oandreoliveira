@@ -1,8 +1,8 @@
-<h1 align="center">Oi 👋 , eu sou André Oliveira</h1><h3 align="center">Da Área Financeira para Tecnologia</h3>- Atualmente estou aprendendo **Integration Services, .Net, Angular, Unit Tests e SQL Server**- 🌱 📫 Como chegar até mim **euandrecezar@gmail.com**
+<h1 align="center">Oi 👋 , eu sou André Oliveira</h1><h3 align="center">Da Área Financeira para Tecnologia</h3>
 
-
-
-<h3 align="left">Connect with me:</h3><p align="left">
+<h3 >Atualmente estou aprendendo 💻:</h3> Integration Services, .Net, Angular, Unit Tests e SQL Server<p align="left">
+ 
+<h3 align="left">Conecte-se 🌱 comigo:</h3><p align="left">
 
 
 
